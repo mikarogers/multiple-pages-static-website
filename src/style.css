@@ -1,0 +1,27 @@
+body {
+  background: #fdffcd;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+a {
+  color: #ff9a3c;
+  text-decoration: none;
+}
+
+a:hover {
+  transition: all 200ms ease-in-out;
+  color: black;
+}
+
+.link {
+  text-align: center;
+}
