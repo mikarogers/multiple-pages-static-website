@@ -3,8 +3,17 @@ body {
 }
 
 h1,
+h2,
 p {
   text-align: center;
+}
+
+h1 {
+  font-size: 16px;
+}
+
+h2 {
+  font-size: 40px;
 }
 
 img {
@@ -15,6 +24,7 @@ img {
 a {
   color: #ff9a3c;
   text-decoration: none;
+  margin: 10px;
 }
 
 a:hover {
